@@ -1,4 +1,4 @@
 pong
 ====
 
-Multiplayer pong.
+Multiplayer Pong.
